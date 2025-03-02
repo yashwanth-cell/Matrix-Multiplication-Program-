@@ -1,0 +1,19 @@
+Enter the number of rows and columns for Matrix A: 2 3
+Enter the number of rows and columns for Matrix B: 3 2
+Enter elements for Matrix A:
+Enter element at position [0][0]: 1
+Enter element at position [0][1]: 2
+Enter element at position [0][2]: 3
+Enter element at position [1][0]: 4
+Enter element at position [1][1]: 5
+Enter element at position [1][2]: 6
+Enter elements for Matrix B:
+Enter element at position [0][0]: 7
+Enter element at position [0][1]: 8
+Enter element at position [1][0]: 9
+Enter element at position [1][1]: 10
+Enter element at position [2][0]: 11
+Enter element at position [2][1]: 12
+Result of Matrix A multiplied by Matrix B:
+58 64
+139 154
